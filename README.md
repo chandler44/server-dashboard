@@ -1,37 +1,66 @@
 # 🚀 Server Dashboard
 
-My first DevOps portfolio project.
+## Overview
 
-## Project Goal
+This is my first DevOps portfolio project.
 
-Build a production-ready server dashboard while learning:
+The goal of this project is to learn how software moves from a developer's computer to production using modern DevOps tools and practices.
 
-- Python
-- Flask
-- Git
-- GitHub
-- Docker
-- AWS
-- GitHub Actions
-- Terraform
-- Kubernetes
-- Prometheus
-- Grafana
+---
 
 ## Current Features
 
-- Flask web server
-- Homepage
-- Running locally
+- Python
+- Flask Web Server
+- Local Development Environment
+- Git Version Control
+- GitHub Repository
+
+---
 
 ## Technologies
 
 - Python
 - Flask
 - Git
+- GitHub
 
-## Project Status
+---
 
-🚧 In Progress
+## Future Features
 
-This project will grow over time into a complete DevOps application.
+- Docker
+- AWS EC2
+- GitHub Actions (CI/CD)
+- Terraform
+- Kubernetes
+- Prometheus
+- Grafana
+- Nginx
+- Monitoring Dashboard
+
+---
+
+## Project Roadmap
+
+✅ Local Flask Application
+
+⬜ Docker Container
+
+⬜ AWS Deployment
+
+⬜ GitHub Actions
+
+⬜ Terraform
+
+⬜ Kubernetes
+
+⬜ Monitoring
+
+⬜ Production Ready
+
+---
+
+## Author
+
+Chandler Glover
